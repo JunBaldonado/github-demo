@@ -1,2 +1,4 @@
 Some text
 Sample file 2
+
+Third edit
